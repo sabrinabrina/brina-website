@@ -1,0 +1,35 @@
+.sab{
+    font-size: 70px;
+    font-style: italic;
+    color: #fff;
+} 
+body{
+    background-image: url(img/MRV-04\ Big\ Pattern\ Bogor\ Mural\ by\ Mr\ &\ Mrs\ Vintage\ -\ Sample.jfif);
+
+}
+.paragraf{
+    color: #fff;
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    ;
+}
+.imgo{
+    width: 600px;
+    border-radius: 50px;
+}
+.imgoa{
+    width: 600px;
+    border-radius: 50px;
+}
+.imgoi{
+    width: 600px;
+    border-radius: 50px;
+}
+.imgou{
+    width: 600px;
+    border-radius: 50px;
+}
+.product-name{
+    color: beige;
+    font-size: 90px;
+}
